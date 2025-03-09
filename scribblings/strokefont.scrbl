@@ -1,5 +1,5 @@
 #lang scribble/manual
-@require[@for-label[strokefont
+@require[@for-label["strokefont.rkt"
                     racket/class
                     racket/base]]
 
