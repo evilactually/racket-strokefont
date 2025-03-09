@@ -1,6 +1,6 @@
 #lang info
 (define collection "strokefont")
-(define deps '("base"))
+(define deps '("base" "control"))
 (define build-deps '("scribble-lib" "racket-doc" "rackunit-lib"))
 (define scribblings '(("scribblings/strokefont.scrbl" ())))
 (define pkg-desc "Simple to use Hershey stroke font")
