@@ -8,7 +8,7 @@
 @(require scribble/eval)
 
 @title{strokefont}
-@author{vlads}
+@author{Vladislav Shchebakov}
 
 @defmodule[strokefont]
 

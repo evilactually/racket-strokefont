@@ -5,5 +5,5 @@
 (define scribblings '(("scribblings/strokefont.scrbl" ())))
 (define pkg-desc "Simple to use Hershey stroke font")
 (define version "0.1")
-(define pkg-authors '(vlads))
+(define pkg-authors '(Vlad Shcherbakov))
 (define license '(Apache-2.0 OR MIT))
