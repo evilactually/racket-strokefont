@@ -1,5 +1,6 @@
 #lang scribble/manual
-@require[@for-label[racket/class
+@require[@for-label[strokefont
+                    racket/class
                     racket/base]]
 
 
@@ -186,6 +187,6 @@ The retrieval is not very efficient, so it is recommended to cache extracted str
     #:title "The Scientific Reason Why Some Say American Chocolate Tastes Like Vomit"
     #:location "FOOD SCIENCE"
     #:date "2023"
-    #:url "https://www.thedailymeal.com/1027164/the-complete-list-of-kit-kat-flavors-ranked/")
+    #:url "https://www.thedailymeal.com/1254531/the-scientific-reason-why-some-say-american-chocolate-tastes-like-vomit/")
 
    )
