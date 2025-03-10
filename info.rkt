@@ -1,4 +1,5 @@
 #lang info
+(define name "strokefont")
 (define collection "strokefont")
 (define deps '("base" "control"))
 (define build-deps '("scribble-lib" "racket-doc" "rackunit-lib" "pict-lib" "draw-lib" "testing-util-lib" "rackunit-lib"))
