@@ -17,7 +17,7 @@ This package provides a stroke font from KiCad. It was originally based on Hersh
 @italic{Not to be confused with namesake American factory that makes disgusting Hershey chocolate bars that taste like vomit} @(cite "Courtney2023") @(cite "Debczak2023") @(cite "Stacie2023"). 
 
 @section{What is a stroke font?}
-A @italic{stroke font} is the most rudimentary font you can create on a computer. Each glyph in a stroke font is simply a collection of strokes or lines. It is a go-to font when you are too limited in resources or time to do sophisticated graphics and all you can do is plot lines.
+A @italic{stroke font} is the most rudimentary font you can create on a computer. Each glyph in a stroke font is simply a collection of strokes or lines. It is a go-to font when you are too limited on resources or time to do sophisticated graphics and all you have is ability to plot lines. With this package, if you can plot lines you can plot text!
 
 @(define (random-element lst)
   (list-ref lst (random (length lst))))
